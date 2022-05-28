@@ -2,6 +2,8 @@
 
 Week 2 - React Lab #1
 
+<img src="food.gif">
+
 ## Intro
 
 A local startup has asked Site interns to help them construct their new product - `Fast Food Feud`! They love the name and even have a tagline they workshopped: `Folks' Favorite Friendly Fuel Finder For Food Facts`. The one thing they don't have is a working application.
